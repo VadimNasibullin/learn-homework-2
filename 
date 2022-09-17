@@ -1,0 +1,29 @@
+[33mcommit 8c21a801bedb67bc564d2c12c673241077a561e3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: VadimNasibullib <vadim-on@mail.ru>
+Date:   Sat Sep 17 14:57:04 2022 +0500
+
+    'Save'
+
+[33mcommit f1f4b9c4c58e3ab71df2e2f118eb466f89a32e9b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mikhael Korneev <korneevm@gmail.com>
+Date:   Mon Sep 14 10:32:52 2020 +0300
+
+    Fixed formating
+
+[33mcommit 02b41e7ff5327fe5e44e7f9d01cdeb0bd7e25068[m
+Author: Mikhael Korneev <korneevm@gmail.com>
+Date:   Wed May 20 18:06:57 2020 +0300
+
+    New readme and minor fixes in tasks
+
+[33mcommit f7860025a9b781c98727c9bb60142c04f1d86952[m
+Author: Vladimir A Filonov <vladimir@itcanfly.org>
+Date:   Thu May 30 09:07:31 2019 +0300
+
+    Swap filenames for dates and filed hw
+
+[33mcommit ce356436da058e53244bf65f1b1ef3fcc79831c7[m
+Author: Vladimir A Filonov <vladimir@itcanfly.org>
+Date:   Sat May 18 09:48:44 2019 +0300
+
+    Add second homework template

@@ -9,19 +9,26 @@
 """
 
 def print_days():
-    """
-    Эта функция вызывается автоматически при запуске скрипта в консоли
-    В ней надо заменить pass на ваш код
-    """
-    pass
+
+
+    from datetime import date, timedelta
+    dt = date(2022, 9, 11)
+    delta = timedelta(days=1)
+    print(f'Вчерашняя дата:', dt - delta)
+    print(f'Дата сегодня:', dt)
+    delta = timedelta(days=30)
+    print(f'Дата 30 дней назад:', dt - delta)
+
+
 
 
 def str_2_datetime(date_string):
-    """
-    Эта функция вызывается автоматически при запуске скрипта в консоли
-    В ней надо заменить pass на ваш код
-    """
-    pass
+
+
+    from datetime import datetime
+    date_string = '01/01/25 12:10:03.234567'
+    date_dt = datetime.strptime(date_string, '%m/%d/%y %H:%M:%S.%f')
+    print(date_dt)
 
 if __name__ == "__main__":
     print_days()
